@@ -1,4 +1,4 @@
-[![Run on Repl.it](https://repl.it/github/unknownblueguy6/MineSweeper)](https://repl.it/github/unknownblueguy6/MineSweeper)
+[![Run on Repl.it](https://repl.it/@sbbmu/hangman1)](https://repl.it/@sbbmu/hangman1)
 
 # Hangman
 
